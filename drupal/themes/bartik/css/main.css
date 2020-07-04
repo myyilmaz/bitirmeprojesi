@@ -1,0 +1,39 @@
+#comments, #messages{
+    display: none;
+}
+#logo{
+    width: 10%;
+}
+#logo img{
+    width: 100%;
+}
+.sidebar .block {
+    background-color: #86c8ef;
+    border-color: #f9f9f9;
+}
+.sidebar .block a{
+    color: black;
+}
+#edit-actions input{
+    color: green;
+}
+.node-teaser h2 a{
+    font-weight: bold;
+}
+.not-logged-in #content, .logged-in #content {
+    width: 75%!important;
+}
+.not-logged-in #sidebar-second{
+    width: 0;
+    display: none;
+}
+.logged-in #sidebar-first{
+    width: 0;
+    display: none;
+}
+.block {
+    border-radius: 20px;
+}
+.view-id-frontpage .views-row{
+    box-shadow: 1px 5px 1px 0px #e1dede8c;
+}

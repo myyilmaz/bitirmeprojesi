@@ -1,0 +1,165 @@
+body{
+    background-image:url(https://www.wallpaperup.com/uploads/wallpapers/2014/02/20/262330/ee0a0a63d80893f608a3cb72ca1a27a3.jpg) !important;
+    margin:auto;
+    font: 12px Arial;
+}
+#sohbetGenel{
+    width:800px;
+    margin: 30px auto;
+
+}
+#sohbetIcerik{
+    background: #fff;
+    border: 3px solid #ddd;
+    height: 300px;
+    overflow: auto;
+	line-height:10px;
+}
+#mesajGonder{
+    color: #fff;
+    padding: 10px 0;
+
+}
+#mesajGonder h3{
+    float: left;
+    margin-right:20px;
+    padding-top: 10px;
+	font-size: 10px!important;
+}
+#mesajGonder textarea{
+    border:2px solid #ddd;
+    padding:5px;
+    width: 100%;
+    resize: none;
+    overflow: auto;
+	height:200px;
+
+}
+#giris{
+    background: #fff;
+    padding: 10px;
+    border: 2px solid red;
+    width: 400px;
+    margin: 30px auto;
+	height:200px;
+	font-family: Righteous-Regular;
+}
+#giris span{
+    display: block;
+    padding:3px;
+	font-family: Righteous-Regular;
+}
+.giris_in{
+	display:block;
+    border:1px solid #aaa;
+    padding: 5px;
+    width: 200px;
+	font-family: Righteous-Regular;
+	height: 24px;
+	color: black;
+	background-color:#fff;
+	
+	font-family: Righteous-Regular;
+}
+.button{
+	 color: white;
+	 background-color:#504c96;
+	 font-family: Righteous-Regular;
+	 border: none;
+	 margin-top: 35px;
+	 width: 200px;
+}
+.button:hover{
+	
+	background-color:#d88a7d;
+	
+}
+.sohbetMesaji{
+	
+    padding: 10px 0;
+	line-height:10px;
+	border-top:1px solid #ddd;
+	min-height:20px;
+	width:100%;
+	
+
+}
+.sohbetMesaji strong{
+    background-color: #000;
+    color: #fff;
+    border:5px solid #000;
+    font-size: 13px;
+	text-align:left;
+
+}
+.date{
+	float:right !important;
+}
+.sohbetMesaji .message_area{
+	font-size:14px;
+	line-height:14px;
+	font-family: Times New Roman;
+	padding-left:10px;
+	float:left;
+	padding-top:3px;
+	max-width: 500px;
+}
+.sohbetTemizle{
+	background-color:#fff;
+	border:2px solid #ddd;
+	padding:5px;
+	
+}
+.sohbetTemizle a{
+	background-color:#656565;
+	color:#fff;
+	font-size:14px;
+	font-weight:bold;
+	padding:2px 5px;
+	text-decoration:none;
+}
+.logout{
+	width:100%;
+	background-color:red;
+	text-align:center;
+	height:30px;
+	background-color:red;
+	color:#fff;
+	font-weight:bold;
+	font-size:16px;
+}
+.logout a{
+	text-decoration:none;
+	color:#fff;
+}
+.logout p{
+	text-decoration:none;
+	color:#fff;
+}
+.logout:hover{
+	background-color:#b50808;
+	text-decoration:none;
+}
+.main{
+	width:800px;
+	margin:30 auto;
+	text-align:center;
+}
+.main span{
+	font-size:20px;
+	text-decoration:italic;
+	color:#fff;
+}
+.image-upload{
+	
+width:100%;
+background-color: white;
+	
+}
+.image-view{
+	left:10px;
+	position:absolute;
+	top:50px;
+	color:white;
+	font-size:20px;
+	}
